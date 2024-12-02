@@ -15,7 +15,7 @@ I’ve trained over 1,200 professionals in data literacy and storytelling, helpi
 Python, SQL, PySpark, BigQuery, Tableau, Power BI, GCP, AWS, Databricks, and more!
 
 **🗣️ Talks & Initiatives**
-Hosted the Women in Data Series, featuring live discussions with data leaders across industries, focusing on the impact of AI and data-driven solutions in healthcare, business intelligence, and education​​​. Check my Youtube Channel!
+Hosted the Women in Data Series, featuring live discussions with data leaders across industries, focusing on the impact of AI and data-driven solutions in healthcare, business intelligence, and education​​​. [Check my Youtube Channel!](https://www.youtube.com/@LilianTheStrategicAnalyst)
 
 **📫 Let’s Connect!**
 Feel free to reach out for collaborations, mentorship, or to discuss exciting data projects.

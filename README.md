@@ -6,7 +6,7 @@ Here, I share my journey as a data professional with 8+ years of experience in d
 
 **👩‍💻 About Me**
 - Professional Background:
-I have worked at leading companies like Nubank and Mercado Libre, developing data pipelines, creating scalable infrastructures, and enabling business strategies with data. I am passionate about designing solutions that simplify complex data challenges and have impacted areas like risk management, customer experience, and operational efficiency​.
+I have worked at leading companies like Willbank, Nubank, Mercado Libre and Magazine Luiza developing data pipelines, creating scalable infrastructures, and enabling business strategies with data. I am passionate about designing solutions that simplify complex data challenges and have impacted areas like risk management, customer experience, and operational efficiency​.
 
 - Educator & Mentor:
 I’ve trained over 1,200 professionals in data literacy and storytelling, helping them harness the power of data for better decision-making.
